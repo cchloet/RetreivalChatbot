@@ -1,1 +1,1 @@
-#This is the basic configuration for a rule based chatbot
+# This is the basic configuration for a rule based chatbot
